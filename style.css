@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color:  orange;
+    background-image: linear-gradient( orange,red);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    box-shadow: 5px 5px 0 0 grey;
+    background-color: orange;
+    padding: 50px;
+    background-image: linear-gradient( orange,red);
+}
+
+header a {
+    font-size: 45px;
+    text-decoration: darkseagreen;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 5px 5px 0px gray;
+    font-size: 50px;
+    color: aqua;
+}
+
+footer {
+    background-color: aqua;
+    box-shadow: 10px 5px 0 0 grey;
+    background-image: linear-gradient(orange,red);
+}
+
+.text-big {
+    color: rgb(235, 5, 185);
+}
